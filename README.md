@@ -129,20 +129,6 @@ The system integrates rule-based detection, unsupervised anomaly detection, supe
 
 ---
 
-## How to Run
-
-```bash id="k29xhf"
-# Clone repository
-git clone https://github.com/adhya-hebbar/cloud-nids-fl.git
-
-cd cloud-nids-fl
-
-
-# Run notebooks
-jupyter notebook
-```
-
----
 
 ## Author
 
